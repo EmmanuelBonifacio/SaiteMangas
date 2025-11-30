@@ -1,8 +1,24 @@
 .header {
-  background-color: #222;
+  background-color: #f5e502d8;
   padding: 5px 10px;
   text-align: center;
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+.categorias {
+  background-color: #0669ebd8;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+.listaCategorias {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
 }
