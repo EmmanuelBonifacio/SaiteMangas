@@ -22,3 +22,22 @@
   justify-content: center;
   gap: 20px;
 }
+.painelRolanteBanner {
+  background-color: #7e7d6ed8;
+  padding: 5px 10px;
+  text-align: center;
+}
+.banner1 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.banner1 img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.painelBanner {
+  max-width: 400px;
+  margin: 0 auto;
+}
